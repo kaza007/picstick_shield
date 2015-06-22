@@ -11,7 +11,7 @@ Construction
 -----------------
 1. Place JP1, header on the bottom side of the PCB. Solder.
 2. Place JP2, header on the bottom side of the PCB. Solder.
-3 Place SW1, switch on the top side of the PCB. It does not matter in which direction it is placed. Solder.
+3. Place SW1, switch on the top side of the PCB. It does not matter in which direction it is placed. Solder.
 
 Design Software
 ----------------------
