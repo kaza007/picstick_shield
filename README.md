@@ -1,7 +1,7 @@
 # picstick_shield
 Development Shield PCB for the picstick
 
-![PCB](https://github.com/kaza007/picstick_shield/blob/master/eagleUp_picstick_shield_v1_board_top.png) 
+![PCB](https://github.com/kaza007/picstick_shield/blob/master/eagleUp_picstick_shield_v1_3D.png) 
 
 Background
 ----------------
